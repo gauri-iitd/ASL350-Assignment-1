@@ -1,5 +1,0 @@
-plt.scatter(yearly_temp, yearly_salinity, c=years, cmap='turbo')
-plt.colorbar(label='year')
-plt.xlabel('Temperaure (C)')
-plt.ylabel('Salinity')
-plt.show()
